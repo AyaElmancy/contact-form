@@ -1,0 +1,77 @@
+body{
+    background-color: hsl(148, 38%, 91%);
+            }
+    .countainer{
+        background-color:  hsl(0, 0%, 100%);
+        width:35%;
+        height: 670px;
+        margin: 0px 470px;
+    }
+    h1,label{
+        padding:25px;
+    }
+    .box1{
+    display: flex;
+    flex-direction:row;
+    }
+    label{
+        color: hsl(169, 82%, 27%);
+    }
+    input{
+        width: 200px;
+        height: 35px;
+        margin: 10px 25px;
+        border-radius: 5px;
+        border: 1px solid hsl(169, 82%, 27%);
+    }
+    .label{
+        margin-right: 100px;
+    }
+    .countainer2{
+        position: relative;
+        bottom: 50px;
+    }
+    textarea{
+        width: 470px;
+        height: 70px;
+        position: relative;
+        left: 25px;
+        top: 10px;
+        border-radius: 10px;
+        resize: none;
+    }
+    .text{
+        position: relative;
+        bottom: 40px;
+        left: 50px;
+    }
+    .email{
+        width: 460px;
+    }
+    .inside{
+    position: relative;
+    bottom: 67px;
+    border: 0px;
+    height: 20px;
+    right: 70px;
+    
+    }
+    .contact
+    {
+        position:relative;
+        bottom: 36px;
+        left: 47px;
+    }
+    button{
+        position: relative;
+        top: 10px;
+        left:25px;
+        height: 50px;
+        color: white;
+        background-color: hsl(169, 82%, 27%);
+        width: 480px;
+    }
+    .check{
+        position: relative;
+    right: 40px;
+    }
